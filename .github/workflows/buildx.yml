@@ -9,8 +9,8 @@ on:
   pull_request:
 
 env:
-  DOCKERHUB_USER: wiserain
-  IMAGE_NAME: wiserain/plexdrive
+  DOCKERHUB_USER: ximliu
+  IMAGE_NAME: ximliu/plexdrive
 
 jobs:
   buildx:
